@@ -4,8 +4,7 @@ node_modules/
 # Arquivos de compilação
 build/
 dist/
-*.css
-*.js
+
 
 # Arquivos temporários
 *.log
